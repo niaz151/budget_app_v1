@@ -1,0 +1,26 @@
+.App{
+  height: 100vh;
+  width: 100vw;
+  background-color: #29B2CF;
+  display:flex;
+  align-items:center;
+  justify-content:space-around;
+}
+
+.Nav{
+  height: 90vh;
+  width: 20vw;
+  border:3px solid white;
+  border-radius: 15px;
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.Content{
+  height: 90vh;
+  width: 75vw;
+  border:3px solid white;
+  border-radius: 15px;
+}
